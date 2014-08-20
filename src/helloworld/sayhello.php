@@ -1,8 +1,8 @@
 <?php 
 
-namespace HelloWorld;
+namespace helloworld;
 
-class SayHello
+class sayhello
 {
     public static function world()
     {
